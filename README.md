@@ -12,10 +12,15 @@ abhideshmukh1102
 
 - 💞️ I’m currently searching a job in python devloper and DA/DS
 
-- 📫 How to reach me abhideshmukh17@gmai.com
+- 📫 How to reach me abhideshmukh17@gmail.com
   
-- Connect with me:
+- Connect with me:-
 https://www.linkedin.com/in/abhijeet-deshmukh-738b902aa/
+
+- my portfolio website:-
+
+- my Django python project:-
+
 
 Languages and Tools:
 MySQL | HTML | CSS | JS | HTML5 | CSS3 | Python | 
