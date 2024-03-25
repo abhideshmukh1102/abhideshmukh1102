@@ -19,7 +19,7 @@ https://www.linkedin.com/in/abhijeet-deshmukh-738b902aa/
 
 - my portfolio website:-https://abhideshmukh1102.github.io/Portfolio
 
-- my Django python project:-
+- my Django python project:- https://abhideshmukh1102.github.io/Ishwari-Blood-Bank--django/
 
 
 Languages and Tools:
