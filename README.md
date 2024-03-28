@@ -14,8 +14,7 @@ abhideshmukh1102
 
 - 📫 How to reach me abhideshmukh17@gmail.com
   
-- Connect with me:-
-https://www.linkedin.com/in/abhijeet-deshmukh-738b902aa/
+- Connect with me:- www.linkedin.com/in/abhijeetdeshmukh1102
 
 - my portfolio website:-https://abhideshmukh1102.github.io/Portfolio
 
