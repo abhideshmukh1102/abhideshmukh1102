@@ -20,7 +20,7 @@ abhideshmukh1102
 
 - my Django python project:- https://abhideshmukh1102.github.io/Ishwari-Blood-Bank--django/
 
-- - my Django Ecommerce project:- abhijeetdeshmukh1102.pythonanywhere.com
+- my Django Ecommerce project:- https://abhijeetdeshmukh1102.pythonanywhere.com/
 
 
 Languages and Tools:
