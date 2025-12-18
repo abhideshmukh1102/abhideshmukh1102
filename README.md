@@ -6,11 +6,11 @@ DATA Analyst & DATA Science
 
 abhideshmukh1102
 
-- 👀 I’m interested in python Developer and DA/DS
+- 👀 I’m interested in python Data Analyst 
  
 - 🌱 I’m currently learning python,DA,DS,PowerBI,Tableau
 
-- 💞️ I’m currently searching a job in python devloper and DA/DS
+- 💞️ I’m currently working as an MIS Executive at Pro Talk Tech Solution Pvt Ltd Airoli Navi Mumbai
 
 - 📫 How to reach me abhideshmukh17@gmail.com
   
